@@ -1,6 +1,6 @@
 # Backtesting Strategies
 
-This project implements a simple "Buy and Hold" investment strategy using historical stock data. The strategy involves buying a stock at the beginning of a period and holding it until the end of the period, regardless of any fluctuations in the stock price.
+This project demonstrates how to backtest trading strategies using historical stock data. It includes functions to fetch historical stock data, apply a simple moving average strategy, run a backtest with transaction costs, calculate performance metrics, and visualize the results.
 
 ## Functionality
 
