@@ -63,13 +63,6 @@ for metric, value in metrics.items():
 plot_results(signals, portfolio)
 ```
 
-## Requirements
-
--   Python 3.x
--   yfinance (for fetching stock data)
--   pandas (for data manipulation)
--   matplotlib (for plotting results)
-
 ## Installation
 
 1. Clone the repository:
