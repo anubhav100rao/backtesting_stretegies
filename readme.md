@@ -74,7 +74,7 @@ plot_results(signals, portfolio)
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/buy_and_hold.git
+    git clone [https://github.com/yourusername/buy_and_hold.git](https://github.com/anubhav100rao/backtesting_stretegies)
     ```
 2. Navigate to the project directory:
     ```sh
