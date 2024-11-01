@@ -82,7 +82,7 @@ plot_results(signals, portfolio)
     ```
 3. Install the required packages:
     ```sh
-    pip install yfinance pandas matplotlib
+    pip install -r requirements.txt
     ```
 
 ### Chill, I got this. I'll take it from here.
