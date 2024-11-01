@@ -1,4 +1,4 @@
-# Buy and Hold Strategy
+# Backtesting Strategies
 
 This project implements a simple "Buy and Hold" investment strategy using historical stock data. The strategy involves buying a stock at the beginning of a period and holding it until the end of the period, regardless of any fluctuations in the stock price.
 
